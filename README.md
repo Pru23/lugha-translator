@@ -136,7 +136,7 @@ lugha-app/
 
 ## About
 
-Built by [Your Name] as part of an AI portfolio project. This app was built using React Native + Expo and the Claude API by Anthropic.
+Built by Prudence Dera as part of an AI portfolio project. This app was built using React Native + Expo and the Claude API by Anthropic.
 
 ---
 
